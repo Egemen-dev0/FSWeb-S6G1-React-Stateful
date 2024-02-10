@@ -26,7 +26,7 @@ Bu proje `src/components` klasörü içinde bir kaç React bileşeni(component) 
 NOT: Tavsiye edilen `node version 18` ile kurulum yapabilirsiniz.
 - [x] `npm start` komutuyla projeyi başlatın.
 - [x] `npm test` komutuyla projeyi test edebilirsiniz. (uygulamanın `http://localhost:1234` 'da çalışıyor halde olması lazım)
-- [ ] Commitinizi pushlayın: `git push origin main`.
+- [x] Commitinizi pushlayın: `git push origin main`.
 
 ### Görev 2a: Minimum Uygulanabilir Ürün
 
